@@ -49,3 +49,10 @@
         return this;
     };
 })(jQuery);
+
+
+
+/*
+new file added by ashik
+hello world
+*/
